@@ -1,0 +1,32 @@
+.containerSomme {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: flex-end;
+    margin-top: 3rem;
+  
+    padding: 2rem;
+    padding-right: 0rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+  
+  .containerSomme h1,
+  .containerSomme h4,
+  .containerSomme p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .containerSomme h1 {
+    font-size: 4rem;
+  }
+  
+  .containerSomme p {
+    font-size: 2rem;
+    color: rgb(163, 163, 163);
+  }
+  
+  .containerSomme h4 {
+    color: rgb(197, 197, 197);
+  }

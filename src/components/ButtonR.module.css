@@ -1,0 +1,21 @@
+.speciale, .nonSpeciale{
+    color: aliceblue;
+}
+.speciale,
+.nonSpeciale {
+  margin: 1px;
+  padding: 1.5rem;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.nonSpeciale {
+  color: rgb(255, 255, 255);
+  background-color: rgb(58, 58, 58);
+}
+
+.speciale {
+  color: rgb(255, 255, 255);
+  background-color: rgb(10, 10, 10);
+}
